@@ -1,5 +1,5 @@
 ---
-title: Visuals for Research Projects
+title: Homepage
 layout: template
 filename: index
 --- 
